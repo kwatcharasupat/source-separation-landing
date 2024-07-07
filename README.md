@@ -5,7 +5,7 @@
 Bandit is a cinematic audio source separation model adapted from [Bandsplit RNN](https://arxiv.org/abs/2209.15174).
 
 - [Repository](https://github.com/kwatcharasupat/bandit)
-- [IEEE OJSP Open-Access Paper](https://ieeexplore.ieee.org/document/10342812)
+- [IEEE OJSP / ICASSP 2024 Open-Access Paper](https://ieeexplore.ieee.org/document/10342812)
 
 
 ## Banquet: Query-based Music Source Separation
