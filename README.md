@@ -1,5 +1,18 @@
 # Source Separation Landing Page 
 
-- [Bandit](https://github.com/kwatcharasupat/bandit) (IEEE OJSP 2023, presented in ICASSP 2024): A cinematic audio source separation model adapted from [Bandsplit RNN](https://arxiv.org/abs/2209.15174).
-- [Banquet](https://github.com/kwatcharasupat/query-bandit) (To appear in ISMIR 2024): A query-based music source separation model adapted from Bandit + [PaSST](https://github.com/kkoutini/PaSST)
-- Divide and Remaster v3 (**COMING SOON**): A multilingual rework of the [Divide and Remaster v2](https://github.com/darius522/dnr-utils) dataset
+
+## Bandit: Cinematic Audio Source Separation
+Bandit is a cinematic audio source separation model adapted from [Bandsplit RNN](https://arxiv.org/abs/2209.15174).
+
+- [Repository](https://github.com/kwatcharasupat/bandit)
+- [IEEE OJSP Open-Access Paper](https://ieeexplore.ieee.org/document/10342812)
+
+
+## Banquet: Query-based Music Source Separation
+Banquet is a query-based music source separation model adapted from Bandit + [PaSST](https://github.com/kkoutini/PaSST)
+
+- [Repository](https://github.com/kwatcharasupat/query-bandit)
+- [Accepted ISMIR 2024 Preprint](https://arxiv.org/abs/2406.18747)
+
+## Divide and Remaster v3 (**COMING SOON**)
+A multilingual rework of the [Divide and Remaster v2](https://github.com/darius522/dnr-utils) dataset. More details coming soon.
