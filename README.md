@@ -19,4 +19,4 @@ A multilingual rework of the [Divide and Remaster v2](https://github.com/darius5
 
 - Preprint (coming soon)
 - [Model Repository](https://github.com/kwatcharasupat/bandit-v2)
-- Dataset Repository (coming soon)
+- [Dataset Repository](https://github.com/kwatcharasupat/divide-and-remaster-v3) (WIP)
