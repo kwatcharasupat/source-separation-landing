@@ -2,6 +2,11 @@
 
 
 ## Bandit: Cinematic Audio Source Separation
+
+<div >
+	<img width=200px src="https://github.com/kwatcharasupat/bandit/blob/main/assets/bandit-logo.png">
+</div> 
+
 Bandit is a cinematic audio source separation model adapted from [Bandsplit RNN](https://arxiv.org/abs/2209.15174).
 
 - [IEEE OJSP Open-Access Paper](https://ieeexplore.ieee.org/document/10342812)
@@ -9,6 +14,11 @@ Bandit is a cinematic audio source separation model adapted from [Bandsplit RNN]
 
 
 ## Banquet: Query-based Music Source Separation
+
+
+<div >
+	<img width=200px src="https://github.com/kwatcharasupat/query-bandit/blob/main/assets/banquet-logo.png">
+</div> 
 Banquet is a query-based music source separation model adapted from Bandit + [PaSST](https://github.com/kkoutini/PaSST)
 
 - [Accepted ISMIR 2024 Preprint](https://arxiv.org/abs/2406.18747)
