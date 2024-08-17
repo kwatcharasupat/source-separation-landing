@@ -25,7 +25,7 @@ Banquet is a query-based music source separation model adapted from Bandit + [Pa
 - [Accepted ISMIR 2024 Preprint](https://arxiv.org/abs/2406.18747)
 - [Model Repository](https://github.com/kwatcharasupat/query-bandit)
 
-## Divide and Remaster v3 
+## Divide and Remaster v3: Multilingual Cinematic Audio Source Separation Dataset
 A multilingual rework of the [Divide and Remaster v2](https://github.com/darius522/dnr-utils) dataset.
 
 - [Accepted IEEE IS2 Preprint](https://arxiv.org/abs/2407.07275)
