@@ -12,7 +12,7 @@
 
 # Source Separation Landing Page 
 
-Note: all the model repositories are currently being reworked into one unified repository to make it easier to maintain. More details will be updated soon. 
+Note: all the model repositories are currently being reworked into one unified repository to make it easier to maintain. The alpha version is [here](https://github.com/kwatcharasupat/banda). 
 
 ## Bandit: Cinematic Audio Source Separation 
 
